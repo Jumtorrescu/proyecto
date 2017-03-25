@@ -16,6 +16,7 @@ private static Tablero board;
 
     public static void main(String[] args) {
        iniciarJuego ( );
+       System.out.println("j");
     }
  
     private static void iniciarJuego() {
