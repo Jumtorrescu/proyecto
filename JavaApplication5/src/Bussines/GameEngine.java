@@ -15,7 +15,7 @@ public class GameEngine {
 private static Tablero board;
 
     public static void main(String[] args) {
-       iniciarJuego ();
+       iniciarJuego ( );
     }
  
     private static void iniciarJuego() {
